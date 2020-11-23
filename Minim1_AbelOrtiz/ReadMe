@@ -1,0 +1,13 @@
+El proyecto esta formado por las siguientes funciones:
+
+addPerson que nos permite añadir una persona por parametros
+addPerson2 que nos permite añadir una persona como objeto completo
+mostrarMuestars que nos retorna la lista de muestras de un usuario
+procesarMuestra que nos permite analizar la muestra en el laboratorio deseado en funcion del nombre de este
+enviarMuestra que nos permite enviar la muestra al laboratorio deseado
+
+Y una serie de funciones para poder utilizar en el test y en los servicios.
+
+mostrarPersonas que nos permite ver el contenedor de perosnas
+getpersona que nos permite obtener una persona en funcion del id
+numPerosnas que nos da el numero de personas en el contenedor.
