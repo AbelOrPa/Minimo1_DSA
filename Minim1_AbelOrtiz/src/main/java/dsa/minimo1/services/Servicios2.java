@@ -27,8 +27,8 @@ import io.swagger.annotations.ApiResponses;
  */
 
 
-@Api(value = "/clase1", description = "Endpoint to User Service")
-@Path("/clase1")
+@Api(value = "/Persona", description = "Endpoint to User Service")
+@Path("/Persona")
 
 public class Servicios2 {
 
