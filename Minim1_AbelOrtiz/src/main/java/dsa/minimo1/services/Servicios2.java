@@ -41,9 +41,9 @@ public class Servicios2 {
 
         if (manager.numPersonas() == 0) {
             //añadir algunos datos
-            this.manager.addPerson("4", "pepe", "juan",23,"B");
-            this.manager.addPerson("4", "pepe", "juan",54,"C");
-            this.manager.addPerson("4", "pepe", "juan",34,"A");
+            this.manager.addPerson("1", "Pepito", "Palotes",23,"B");
+            this.manager.addPerson("2", "Carlos", "Jose",54,"C");
+            this.manager.addPerson("3", "Pepe", "Botero",34,"A");
         }
     }
 
